@@ -2,7 +2,7 @@
   "name": "nameit",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Malay-Chaudhari.github.io/nameIt",
+  "homepage": "http://Malay-Chaudhari.github.io/reactNameIt",
   "dependencies": {
     "@babel/traverse": "^7.23.2",
     "@rstacruz/startup-name-generator": "0.3.0",
