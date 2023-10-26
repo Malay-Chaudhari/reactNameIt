@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/nameIt/static/css/main.0b3f291b.css",
-    "main.js": "/nameIt/static/js/main.669f6a28.js",
-    "index.html": "/nameIt/index.html",
-    "main.0b3f291b.css.map": "/nameIt/static/css/main.0b3f291b.css.map",
-    "main.669f6a28.js.map": "/nameIt/static/js/main.669f6a28.js.map"
+    "main.css": "/reactNameIt/static/css/main.0b3f291b.css",
+    "main.js": "/reactNameIt/static/js/main.669f6a28.js",
+    "index.html": "/reactNameIt/index.html",
+    "main.0b3f291b.css.map": "/reactNameIt/static/css/main.0b3f291b.css.map",
+    "main.669f6a28.js.map": "/reactNameIt/static/js/main.669f6a28.js.map"
   },
   "entrypoints": [
     "static/css/main.0b3f291b.css",
